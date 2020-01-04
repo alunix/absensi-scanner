@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="separator_height">2px</dimen>
+    <item name="dialog_min_width_major" type="dimen">50%</item>
+
+    <item name="divide_1pt" type="dimen">1pt</item>
+
+    <!--Margin-->
+    <dimen name="margin_150dp">150dp</dimen>
+    <dimen name="margin_50dp">50dp</dimen>
+    <dimen name="margin_40dp">40dp</dimen>
+    <dimen name="margin_32dp">32dp</dimen>
+    <dimen name="margin_30dp">30dp</dimen>
+    <dimen name="margin_42dp">42dp</dimen>
+    <dimen name="margin_24dp">24dp</dimen>
+    <dimen name="margin_20dp">20dp</dimen>
+    <dimen name="margin_18dp">18dp</dimen>
+    <dimen name="margin_16dp">16dp</dimen>
+    <dimen name="margin_12dp">12dp</dimen>
+    <dimen name="margin_10dp">10dp</dimen>
+    <dimen name="margin_8dp">8dp</dimen>
+    <dimen name="margin_4dp">4dp</dimen>
+
+    <!--Padding-->
+    <dimen name="padding_45dp">45dp</dimen>
+    <dimen name="padding_24dp">24dp</dimen>
+    <dimen name="padding_20dp">20dp</dimen>
+    <dimen name="padding_18dp">18dp</dimen>
+    <dimen name="padding_16dp">16dp</dimen>
+    <dimen name="padding_8dp">8dp</dimen>
+
+    <!--Font Size-->
+    <dimen name="font_xxl">26sp</dimen>
+    <dimen name="font_xl">24sp</dimen>
+    <dimen name="font_l">20sp</dimen>
+    <dimen name="font_m">16sp</dimen>
+    <dimen name="font_s">14sp</dimen>
+    <dimen name="font_xs">12sp</dimen>
+
+</resources>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Absensi</string>
+
+    <!--Text-->
+    <string name="copyright_splash_screen">Copyright Siabsensi 2019</string>
+    <string name="text_login">Selamat datang di Aplikasi Siabsensi. Silakan Login untuk melanjutkan</string>
+    <string name="scan_code">Silakan Scan QR Code Produk\nUntuk Mendapatkan Data</string>
+    <string name="text_noConnection">Anda tidak memiliki koneksi internet!</string>
+
+    <!--Label-->
+    <string name="label_welcome">Selamat Datang,</string>
+
+    <!--Alert-->
+    <string name="alert_title_berhasil">BERHASIL !</string>
+    <string name="alert_titleScannedPublish">PUBLISH DATA\nBERHASIL !</string>
+    <string name="alert_titleScannedNodata">GAGAL !</string>
+    <string name="alert_scannedNodata">Maaf, Kami tidak menemukan\ndata yang Anda Scan. Silakan\ninput data terlebih dahulu.</string>
+
+    <!--Button-->
+    <string name="btn_lanjut_scan">LANJUTKAN SCAN</string>
+    <string name="btn_tambah">TAMBAH</string>
+    <string name="btn_tidak">TIDAK</string>
+    <string name="btn_ya">YA</string>
+
+    <!--Toast-->
+    <string name="toast_api_loading">Harap Tunggu …</string>
+    <string name="toast_api_koneksi1">Ada yang salah dengan server, mohon dicoba lagi</string>
+    <string name="toast_api_koneksi2">Tidak ada koneksi internet</string>
+
+</resources>
